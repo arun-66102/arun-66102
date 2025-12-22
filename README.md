@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arunkumar K R</h1>
+<h1 align="center"> ARUNKUMAR K R</h1>
 <h3 align="center">Computer Science & Engineering Student | AI • ML • NLP • CV</h3>
 
 <p align="center">

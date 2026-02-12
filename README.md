@@ -69,7 +69,7 @@ I specialize in building production-ready **AI/ML systems**, **Computer Vision**
 
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :---: |
-| **RouteX - PDF Routing System** | Intelligent document routing system using LLMs and OCR for content analysis and department classification. | `Transformers` `LLM` `ChromaDB` `Tesseract` | [Code](https://github.com/arun-66102/PDF-Summarizer) |
+| **RouteX - PDF Routing System** | Intelligent document routing system using LLMs and OCR for content analysis and department classification. | `Transformers` `LLM` `ChromaDB` `Tesseract` | [Code](https://pdf-router.streamlit.app/) |
 | **Just-Chat (RAG)** | Retrieval-Augmented Generation chatbot that answers questions based on a custom knowledge base. | `RAG` `Sentence-Transformers` `Streamlit` | [Live](https://justice-chat-bot.streamlit.app/) |
 | **CommunHub** | Full-stack community platform for posting and finding local help requests. | `MERN Stack` `Socket.io` | [Live](https://communhub.netlify.app/) |
 | **Weather Prediction** | ML model to predict weather conditions based on historical atmospheric data. | `TensorFlow` `Scikit-learn` `Pandas` | [Code](https://github.com/arun-66102/Weather-Prediction-ML-model) |

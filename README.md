@@ -3,7 +3,6 @@
   <br/>
   <img src="https://komarev.com/ghpvc/?username=arun-66102&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 
-  <h1>Arunkumar K R</h1>
   <h3>ML Engineer & AI Developer | Computer Science Student</h3>
 
   <p>

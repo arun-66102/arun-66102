@@ -220,8 +220,6 @@ ML model forecasting weather conditions from historical atmospheric data.
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2f81f7,100:0b1220&section=footer&animation=fadeIn" width="100%"/>
-
-<sub>Built with passion by <strong>Arunkumar K R</strong> ⚡</sub>
+<sub>Built with passion by <strong>Arunkumar K R</strong></sub>
 
 </div>

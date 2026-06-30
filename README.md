@@ -1,7 +1,9 @@
 <div align="center">
 
 <a href="https://github.com/arun-66102">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=100&lines=I+build+the+AI+and+the+product+around+it.;ML+Engineer+%7C+AI+Developer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2500&pause=900&color=FFFFFF&center=true&vCenter=true&repeat=false&width=720&height=50&lines=Arunkumar+K+R" alt="Typing SVG" />
+<br/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=5000&pause=900&color=white&center=true&vCenter=true&repeat=true&width=720&height=50&lines=I+build+the+AI+and+the+product+around+it.;ML+Engineer+%7C+AI+Developer;" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -82,7 +84,7 @@ philosophy: "I build the AI and the product around it."
 <tr>
 <td width="50%">
 
-**🧠 Prism AI**
+**Prism AI**
 Multi-modal AI SaaS platform powered by Groq LLM, Hugging Face FLUX, and LangChain.
 `AI` `LLM` `Multi-modal`
 [Live Demo →](https://prismai-livid.vercel.app/)
@@ -90,7 +92,7 @@ Multi-modal AI SaaS platform powered by Groq LLM, Hugging Face FLUX, and LangCha
 </td>
 <td width="50%">
 
-**📋 Promanage**
+**Promanage**
 Full MERN-stack project and task management platform with a streamlined productivity dashboard.
 `MERN` `Productivity`
 [Live Demo →](https://pro-manage-frontend-inky.vercel.app/)
@@ -100,7 +102,7 @@ Full MERN-stack project and task management platform with a streamlined producti
 <tr>
 <td width="50%">
 
-**📄 RouteX — PDF Routing System**
+**RouteX — PDF Routing System**
 Intelligent document routing engine using LLMs + OCR for automated department classification.
 `Transformers` `ChromaDB` `Tesseract`
 [Live Demo →](https://pdf-router.streamlit.app/)
@@ -108,7 +110,7 @@ Intelligent document routing engine using LLMs + OCR for automated department cl
 </td>
 <td width="50%">
 
-**💬 Just-Chat (RAG)**
+**Just-Chat (RAG)**
 Retrieval-Augmented Generation chatbot for custom knowledge-base Q&A.
 `RAG` `Sentence-Transformers`
 [Live Demo →](https://justice-chat-bot.streamlit.app/)
@@ -118,7 +120,7 @@ Retrieval-Augmented Generation chatbot for custom knowledge-base Q&A.
 <tr>
 <td width="50%">
 
-**🤝 Community Hub**
+**Community Hub**
 Full-stack real-time platform to post and find local help requests.
 `MERN` `Socket.io`
 [Live Demo →](https://community-hub-henna.vercel.app/)
@@ -126,7 +128,7 @@ Full-stack real-time platform to post and find local help requests.
 </td>
 <td width="50%">
 
-**🌦️ Weather Prediction**
+**Weather Prediction**
 ML model forecasting weather conditions from historical atmospheric data.
 `TensorFlow` `Scikit-learn`
 [View Code →](https://github.com/arun-66102/Weather-Prediction-ML-model)
@@ -137,7 +139,7 @@ ML model forecasting weather conditions from historical atmospheric data.
 
 <div align="center">
 
-🌍 **Explore the full collection on my Portfolio →** **[portfolio-blitz-eight.vercel.app](https://portfolio-blitz-eight.vercel.app/)**
+ **Explore the full collection on my Portfolio →** **[portfolio-blitz-eight.vercel.app](https://portfolio-blitz-eight.vercel.app/)**
 
 </div>
 
@@ -157,7 +159,7 @@ ML model forecasting weather conditions from historical atmospheric data.
 
 </div>
 
-> 🧩 **500+ problems solved** on LeetCode — actively grinding DSA daily. Live stats above update automatically.
+>  **500+ problems solved** on LeetCode — actively grinding DSA daily. Live stats above update automatically.
 
 ---
 
@@ -186,9 +188,9 @@ ML model forecasting weather conditions from historical atmospheric data.
 
 | Platform | Handle | Highlights |
 |:---:|:---:|:---:|
-| 🟧 LeetCode | [arunkumar_66](https://leetcode.com/u/arunkumar_66/) | **500+ problems solved** |
-| 🟢 GeeksforGeeks | [arun87pwrs](https://www.geeksforgeeks.org/profile/arun87pwrs) | **Top 35 institute rank** |
-| 🟩 HackerRank | [23cs020_kpriet](https://www.hackerrank.com/profile/23cs020_kpriet) | **5 Gold Badges** |
+| LeetCode | [arunkumar_66](https://leetcode.com/u/arunkumar_66/) | **500+ problems solved** |
+| GeeksforGeeks | [arun87pwrs](https://www.geeksforgeeks.org/profile/arun87pwrs) | **Top 35 institute rank** |
+| HackerRank | [23cs020_kpriet](https://www.hackerrank.com/profile/23cs020_kpriet) | **5 Gold Badges** |
 
 </div>
 
@@ -214,12 +216,5 @@ ML model forecasting weather conditions from historical atmospheric data.
 <a href="https://www.linkedin.com/in/arunkumar-rathinasamy-844085290/">
   <img src="https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:arun8778jul@gmail.com">
-  <img src="https://img.shields.io/badge/Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<sub>Built with passion by <strong>Arunkumar K R</strong></sub>
 
 </div>

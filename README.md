@@ -3,7 +3,7 @@
 <a href="https://github.com/arun-66102">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2500&pause=900&color=FFFFFF&center=true&vCenter=true&repeat=false&width=720&height=50&lines=ARUNKUMAR+K+R" alt="Typing SVG" />
 <br/>
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=5000&pause=900&color=66C4FF&center=true&vCenter=true&repeat=true&width=720&height=50&lines=I+build+the+AI+and+the+product+around+it.;ML+Engineer+%7C+AI+Developer;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=5000&pause=900&color=66C4FF&center=true&vCenter=true&repeat=true&width=720&height=50&lines=AI+Engineer+%7C+Backend+Developer;I+build+the+AI+and+the+product+around+it.;" alt="Typing SVG" />
 </a>
 
 <br/>

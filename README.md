@@ -105,7 +105,7 @@ Full MERN-stack project and task management platform with a streamlined producti
 **RouteX — PDF Routing System**
 Intelligent document routing engine using LLMs + OCR for automated department classification.
 `Transformers` `ChromaDB` `Tesseract`
-[Live Demo →](https://pdf-router.streamlit.app/)
+[Live Demo →](https://pdf-summarizer-beta-two.vercel.app/)
 
 </td>
 <td width="50%">
